@@ -1,2 +1,2 @@
-# OASIS-OIS
+# OASIS-TASKS
 oasis internship tasks
